@@ -1,0 +1,16 @@
+{
+  "id": "3222582",
+  "name": "test",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "848594",
+      "name": "xiangyou",
+      "font_class": "xiangyou",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    }
+  ]
+}

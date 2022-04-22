@@ -1,0 +1,16 @@
+{
+  "id": "3222582",
+  "name": "test",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10392609",
+      "name": "短信",
+      "font_class": "duanxin",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
